@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Shivansh Rakesh
+I'm a Junior at IIIT Hyderabad, pursuing B.Tech. (Hons.) in ECE. I'm currently working as a GSoC Student Developer at OpenMRS. \
+I love opensource. I'm a tech-enthusiast and an inquisitive explorer. I also am a designer by interest.
 
 <!--
 **ShivanshRakesh/ShivanshRakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
