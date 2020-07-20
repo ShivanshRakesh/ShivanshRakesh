@@ -1,6 +1,6 @@
 ### `helloworld!` I'm Shivansh Rakesh.
 
-![SR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshrakesh&show_icons=true)
+![SR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshrakesh&show_icons=true&hide_title=true&title_color=5eecff&icon_color=5eecff&bg_color=0F0F0F&text_color=FFFFFF)
 
 <table>
   <tbody>
