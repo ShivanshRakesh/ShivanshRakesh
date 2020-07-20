@@ -1,6 +1,7 @@
-### Hi there 👋 I am Shivansh Rakesh
-I'm a Junior at IIIT Hyderabad, pursuing B.Tech. (Hons.) in ECE. I'm currently working as a GSoC Student Developer at OpenMRS. \
-I love opensource. I'm a tech-enthusiast and an inquisitive explorer. I also am a designer by interest.
+## `helloworld!` I'm Shivansh Rakesh.
+
+![SR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshrakesh&show_icons=true)
+
 <table>
   <tbody>
     <tr>
