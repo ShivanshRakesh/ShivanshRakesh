@@ -1,6 +1,6 @@
 ## `hello world! I am Shivansh Rakesh`
 
-I am a junior year ECE undergrad at IIIT Hyderabad. Currently, I'm working as a GSoC Student Developer at OpenMRS. I am a big tech enthusiast. I love working on projects which tackle real world problems. I like graphics designing and I'm a music fan.
+I am a junior year ECE undergrad at IIIT Hyderabad. I am a big tech enthusiast. I love working on projects which tackle real world problems. I like graphics designing and I'm a music fan.
 
 ![SR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshrakesh&show_icons=true&hide_title=true)
 
