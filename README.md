@@ -1,7 +1,5 @@
 ### `> [ShivanshRakesh@GitHub]$ echo 'hello world'`
 
-I am currently a senior at IIIT Hyderabad studying ECE. I love working on projects which tackle real world problems. I'm a big tech enthusiast. I like graphic designing and I love music.
-
 ![SR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshrakesh&show_icons=true&hide_title=true&count_private=true&hide_rank=true)
 
 <table>
