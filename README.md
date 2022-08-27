@@ -1,7 +1,5 @@
 ### `> [ShivanshRakesh@GitHub]$ echo 'hello world'`
 
-![SR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshrakesh&show_icons=true&hide_title=true&count_private=true&hide_rank=true)
-
 <table>
   <tbody>
     <tr>
