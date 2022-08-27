@@ -7,8 +7,6 @@ I am currently a senior at IIIT Hyderabad studying ECE. I love working on projec
 <table>
   <tbody>
     <tr>
-      <td><a href="https://shivanshrakesh.github.io">shivanshrakesh.github.io</a></td>
-      <td><a href="mailto:shivanshrakesh@gmail.com">shivanshrakesh@gmail.com</a></td>
       <td>Linkedin: <a href="https://linkedin.com/in/shivanshrakesh">shivanshrakesh</a>
     </tr>
   </tbody>
